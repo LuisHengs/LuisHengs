@@ -1,6 +1,5 @@
-## <h1 align="center">Hi 👋🏽, Welcome to my profile!</h1>
+<h1 align="center">Hi 👋🏽, Welcome to my profile!</h1>
 <br>
-👋🏽
 
  <div>
   <a href="https://github.com/LuisHengs">
