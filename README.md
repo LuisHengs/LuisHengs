@@ -8,8 +8,8 @@ Aqui você encontrará meus projetos, estudos e experimentos na área de softwar
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHengs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHengs&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" srcset="https://github-readme-stats.vercel.app/api?username=LuisHengs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHengs&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ---
